@@ -50,5 +50,5 @@ and fill the Instructions for running it :)
   
 ## Screenshots
 
-<img scr="portfolio.jpg">
+<img scr="portfolio.png">
   
