@@ -1,38 +1,35 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
+# Portfolio Website
 
-A brief description of what this project does and who it's for
+This is the portfolio website created by our team 'Technotuners'.
 
 
 ## Demo + Video
 
-Insert gif or link to demo, or video
-[link to video]
+https://www.loom.com/share/962e706c82f64caa9614f8e4bcecf2ef
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
-Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
+1.Devika H [https://github.com/Devika-H]
+2.Archana J [https://github.com/ArchanaJ01]
+3.Ardra J [https://github.com/ArdraJ0361]
 
   
 ## Tech Stack
 
-Eg: Flutter, Python, Html, CSS, JavaScript
+ Html, CSS, Bootstrap
 
   
 ## Working of the project
 
-1. Explaining the working of project
-2. Embed video of project demo
+We have created this project using HTML, CSS and Bootstrap.We have included home, about, skills, works and contact information to our GitHub abd Gmail.
 
   
 ## Features
-Examples:
-- Cool Animations
-- Responsive
-- Cross platform
+Skills
+Works
+Responsive
 
   
 ## Run Locally
@@ -53,6 +50,5 @@ and fill the Instructions for running it :)
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img scr="portfolio.jpg">
   
